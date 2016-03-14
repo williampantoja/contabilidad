@@ -8,7 +8,7 @@
 <sql:setDataSource 
     var="connection"
     driver="com.mysql.jdbc.Driver"
-    url="jdbc:mysql://localhost/accounting"
+    url="jdbc:mysql://localhost/contabilidad"
     user="root" password=""
     />
 
